@@ -1,3 +1,4 @@
 first line added in branchA
 second line added in branchA
 third line added in branchA
+fourth line add in branchA
